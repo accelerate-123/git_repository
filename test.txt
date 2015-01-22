@@ -6,3 +6,4 @@ Creating anther brance.
 Creating stash.
 welcome
 GOGO
+color
