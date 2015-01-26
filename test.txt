@@ -7,3 +7,6 @@ Creating stash.
 welcome
 GOGO
 color
+
+
+welcome to beijing
